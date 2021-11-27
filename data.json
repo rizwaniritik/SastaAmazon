@@ -1,0 +1,328 @@
+[
+{
+  "model": "store.category",
+  "pk": 1,
+  "fields": {
+    "name": "Clothes - Men"
+  }
+},
+{
+  "model": "store.category",
+  "pk": 2,
+  "fields": {
+    "name": "Clothes - Women"
+  }
+},
+{
+  "model": "store.category",
+  "pk": 3,
+  "fields": {
+    "name": "Vegetable"
+  }
+},
+{
+  "model": "store.category",
+  "pk": 4,
+  "fields": {
+    "name": "Mobiles"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 1,
+  "fields": {
+    "name": "Shirt Black",
+    "price": 450,
+    "category": 1,
+    "description": "Description",
+    "image": "uploads/products/71aQIPEiPwL._UL1500__mhPaI81.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 2,
+  "fields": {
+    "name": "Shirt Red",
+    "price": 460,
+    "category": 1,
+    "description": "Description",
+    "image": "uploads/products/815qCLkD6RL._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 3,
+  "fields": {
+    "name": "20k Red Dotted Slim Fit Casual Shirt For Men",
+    "price": 160,
+    "category": 1,
+    "description": null,
+    "image": "uploads/products/71aQIPEiPwL._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 4,
+  "fields": {
+    "name": "Black Bee Beige Cotton Printed",
+    "price": 450,
+    "category": 1,
+    "description": null,
+    "image": "uploads/products/81By76Ic5L._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 5,
+  "fields": {
+    "name": "Cotton Printed Regular",
+    "price": 320,
+    "category": 1,
+    "description": null,
+    "image": "uploads/products/81H0ki1TX2L._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 6,
+  "fields": {
+    "name": "People Women's Regular fit Top",
+    "price": 156,
+    "category": 2,
+    "description": null,
+    "image": "uploads/products/81Aa5RlufHL._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 7,
+  "fields": {
+    "name": "Miss Chase Women's White Basic Top",
+    "price": 560,
+    "category": 2,
+    "description": null,
+    "image": "uploads/products/81vdHasFRoL._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 8,
+  "fields": {
+    "name": "Turquoise Floral Print Long Belted Tie-Up",
+    "price": 460,
+    "category": 2,
+    "description": null,
+    "image": "uploads/products/81AuMZrtlXL._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 9,
+  "fields": {
+    "name": "Grey & White Round Neck Half Sleeved",
+    "price": 460,
+    "category": 2,
+    "description": null,
+    "image": "uploads/products/81sBXoebupL._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 10,
+  "fields": {
+    "name": "Women's Plain Loose Fit Top",
+    "price": 123,
+    "category": 2,
+    "description": null,
+    "image": "uploads/products/91ZV6MDwl3L._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 11,
+  "fields": {
+    "name": "Womens Navy Blue Sleeveless Crop Top",
+    "price": 480,
+    "category": 2,
+    "description": null,
+    "image": "uploads/products/81o5eQAdsGL._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 12,
+  "fields": {
+    "name": "Men's Slim fit Casual Shirt Black",
+    "price": 150,
+    "category": 1,
+    "description": null,
+    "image": "uploads/products/81Uaa6osdJL._UL1500_.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 13,
+  "fields": {
+    "name": "Slim fit Casual Shirt Blue",
+    "price": 180,
+    "category": 1,
+    "description": null,
+    "image": "uploads/products/538228-0286_1-510x649.jpeg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 14,
+  "fields": {
+    "name": "Fresho Ginger, 500 g",
+    "price": 12,
+    "category": 3,
+    "description": null,
+    "image": "uploads/products/10000119-2_3-fresho-ginger.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 15,
+  "fields": {
+    "name": "Tomato - Hybrid, 1 kg",
+    "price": 20,
+    "category": 3,
+    "description": null,
+    "image": "uploads/products/10000200-2_2-fresho-tomato-hybrid.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 16,
+  "fields": {
+    "name": "Potato, 1 kg",
+    "price": 23,
+    "category": 3,
+    "description": null,
+    "image": "uploads/products/10000159-2_7-fresho-potato.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 17,
+  "fields": {
+    "name": "Onion, 1 kg",
+    "price": 60,
+    "category": 3,
+    "description": null,
+    "image": "uploads/products/10000148_28-fresho-onion.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 18,
+  "fields": {
+    "name": "Capsicum - Green, 500 g",
+    "price": 50,
+    "category": 3,
+    "description": null,
+    "image": "uploads/products/10000069-2_28-fresho-capsicum-green.jpg"
+  }
+},
+{
+  "model": "store.customer",
+  "pk": 20,
+  "fields": {
+    "first_name": "virendra",
+    "last_name": "patel",
+    "phone": "91446320325",
+    "email": "virendra@gmail.com",
+    "password": "pbkdf2_sha256$180000$Xd2rDgkgQJB0$24Q9t07OS1RebtV0cp0LJOQMpGhrD5kORD7YJlHF+3c="
+  }
+},
+{
+  "model": "store.customer",
+  "pk": 21,
+  "fields": {
+    "first_name": "sandeep",
+    "last_name": "yadav",
+    "phone": "12345678963",
+    "email": "sandeep@gmail.com",
+    "password": "pbkdf2_sha256$180000$5uZe0P72MUH8$OFLOFAhBFMb+G3GfEoBzvGMWFfbuTGrLeTM6xIPzW6U="
+  }
+},
+{
+  "model": "store.customer",
+  "pk": 22,
+  "fields": {
+    "first_name": "harsh",
+    "last_name": "jain",
+    "phone": "1234567896",
+    "email": "harsh@gmail.com",
+    "password": "pbkdf2_sha256$180000$lGq0So5UNBJU$lipG4bF+AdCN4ktd80SXDxeshreKyQD1tI1g9qpO+J4="
+  }
+},
+{
+  "model": "store.customer",
+  "pk": 23,
+  "fields": {
+    "first_name": "chandramohan",
+    "last_name": "patel",
+    "phone": "9144460****",
+    "email": "cm@gmail.com",
+    "password": "pbkdf2_sha256$180000$ty6mMpyAZzKu$L+5hzRZ+d8nwJXO0C+RHQ0osK2hb1IXrE9ZuW5XfpTg="
+  }
+},
+{
+  "model": "store.customer",
+  "pk": 24,
+  "fields": {
+    "first_name": "Ritik",
+    "last_name": "Rizwani",
+    "phone": "08770357453",
+    "email": "uzi1@gmail.com",
+    "password": "pbkdf2_sha256$216000$rbR51hyY8u3z$eRwa27fpHTxmPOfjcLa/xyGEibEPPG58tN0SuL64Yxo="
+  }
+},
+{
+  "model": "store.order",
+  "pk": 1,
+  "fields": {
+    "product": 1,
+    "customer": 24,
+    "quantity": 1,
+    "price": 450,
+    "address": "31n",
+    "phone": "8888888888",
+    "date": "2021-11-24",
+    "orderid": "OD20210611/24/21130650",
+    "status": false
+  }
+},
+{
+  "model": "store.order",
+  "pk": 2,
+  "fields": {
+    "product": 2,
+    "customer": 24,
+    "quantity": 1,
+    "price": 460,
+    "address": "zzz",
+    "phone": "1234",
+    "date": "2021-11-24",
+    "orderid": "OD202108130859",
+    "status": false
+  }
+},
+{
+  "model": "store.order",
+  "pk": 3,
+  "fields": {
+    "product": 1,
+    "customer": 24,
+    "quantity": 2,
+    "price": 450,
+    "address": "",
+    "phone": "",
+    "date": "2021-11-26",
+    "orderid": "OD202145214522",
+    "status": false
+  }
+}
+]
